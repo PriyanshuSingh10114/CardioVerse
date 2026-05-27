@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-> 🧠 Where Artificial Intelligence Meets Human Heartbeats
+🧠 Where Artificial Intelligence Meets Human Heartbeats
 
 </div>
 
